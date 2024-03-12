@@ -1,3 +1,3 @@
 export default {
-  root: 'my-app'
+  root: "my-app",
 };
